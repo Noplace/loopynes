@@ -1,0 +1,10 @@
+extrn joy_load:near
+extrn joy0x:dword
+extrn joy0y:dword
+extrn joy1x:dword
+extrn joy1y:dword
+extrn joy0axis:dword
+extrn joy1axis:dword
+extrn joybuttons:dword
+extrn joyread:byte
+extrn joymask:byte

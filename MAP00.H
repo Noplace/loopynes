@@ -1,0 +1,13 @@
+extrn mirror1:near
+extrn mirror2H:near
+extrn mirror2V:near
+extrn mirror4:near
+extrn map89:near
+extrn mapAB:near
+extrn mapCD:near
+extrn mapEF:near
+extrn map89AB:near
+extrn mapCDEF:near
+extrn map89ABCDEF:near
+extrn flush:near
+extrn pal_init:near

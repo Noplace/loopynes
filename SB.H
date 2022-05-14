@@ -1,0 +1,11 @@
+extrn sb_init:near
+extrn sb_exit:near
+extrn sb_pause:near
+extrn sb_resume:near
+extrn wavrecord:near
+extrn wavhandle:dword
+extrn soundreset:near
+extrn snd00:byte
+extrn mixer:near
+extrn soundmask:byte
+extrn changevol:near
